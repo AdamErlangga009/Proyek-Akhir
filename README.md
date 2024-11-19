@@ -1,4 +1,4 @@
-# Judul PA Bahasa Indonesia
+# OUTDOOR AR BERSKALA BESAR PADA TEMPAT WISATA
 
 Ganti paragraf ini dengan penjelasan singkat mengenai aplikasi. Beri tahu pembaca, repository ini isinya aplikasi apa, siapa target penggunanya, dan apa saja fitur utamanya. Penjelasan dibuat **minimal** 250 karakter. Setelah penjelasan, beri screenshot **maksimal 3** buah. Jika aplikasi belum jadi, screenshot boleh diambil dari Bab 3 (perancangan antarmuka aplikasi).
 
