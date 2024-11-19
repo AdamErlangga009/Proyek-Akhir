@@ -17,5 +17,5 @@ Nama            | Username Github | Posisi
 ----------------|-----------------|-----------
 Adam Erlangga | AdamErlangga009    | Mahasiswa
 Ihtada Lutfi Ramadani | ihtadalutfi    | Mahasiswa
-Nama Pembimbing | usernamePbb     | Pembimbing
+Fat'hah Noor Prawita | usernamePbb     | Pembimbing
 Nama Reviewer   | usernameRev     | Reviewer
