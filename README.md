@@ -18,4 +18,4 @@ Nama            | Username Github | Posisi
 Adam Erlangga | AdamErlangga009    | Mahasiswa
 Ihtada Lutfi Ramadani | ihtadalutfi    | Mahasiswa
 Fat'hah Noor Prawita | usernamePbb     | Pembimbing
-Nama Reviewer   | usernameRev     | Reviewer
+Amir Hasanudin Fauzi   | usernameRev     | Reviewer
