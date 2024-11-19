@@ -5,7 +5,7 @@ yang diantara nya adalah Candi Borobudur, Danau Toba, Labuan Bajo, Mandalika, da
 
 Tampilan Menu                         | Tampilan 1                             | Tampilan 2
 --------------------------------------------|--------------------------------------------|--------------------------------------------
-<img src="pic1.png" width="200">|<img src="pic2.png" width="200">|<img src="pic3.png" width="200">
+<img src="screenshots/Pic1.jpg" width="200">|<img src="screenshots/pic2.jpg" width="200">|<img src="screenshots/pic3.jpg" width="200">
 
 ### Link Berkas PA
 
