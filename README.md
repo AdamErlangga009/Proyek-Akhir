@@ -9,7 +9,7 @@ Tampilan Utama                              | Tampilan Kata                     
 
 ### Link Berkas PA
 
-(diisi link Google Drive kelompok PA yang telah disiapkan oleh Tim PA)
+https://bit.ly/kelengkapanPa
 
 ### Susunan Tim
 
